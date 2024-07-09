@@ -1,7 +1,7 @@
 ---
 title: Python basics
-teaching: 90
-exercises: 60
+teaching: 120
+exercises: 90
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
